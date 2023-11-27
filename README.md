@@ -24,3 +24,6 @@ Create a code quiz that contains the following requirements:
 * The quiz should end when all questions are answered or the timer reaches 0.
 
   * When the game ends, it should display their score and give the user the ability to save their initials and their score
+![Screenshot (11)](https://github.com/Rachp32/Quiz-using-JavaScript/assets/145992866/67eb3535-28f3-4f68-b059-01e171c2e061)
+![Screenshot (10)](https://github.com/Rachp32/Quiz-using-JavaScript/assets/145992866/5c6d796e-1512-402a-854b-ffffb06166aa)
+![Screenshot (9)](https://github.com/Rachp32/Quiz-using-JavaScript/assets/145992866/2a289008-7a10-4ce4-bca6-8ca83313ee25)
